@@ -24,8 +24,22 @@ void setup() {
 
     // Escribir texto básico
     sendCommand(0x80); // Cursor al inicio
-    sendData('H');
-    sendData('i');
+    sendData('h');
+    sendData('o');
+    sendData('l');
+    sendData('a');
+    sendData(' ');
+    sendData('m');
+    sendData('u');
+    sendData('n');
+    sendData('d');
+    sendData('o');
+    sendData('!');
+    sendData('!');
+    sendData('!');
+    sendData('!');
+    sendData('!');
+    sendData('!');
     sendData('!');
     Serial.println("Escritura completada.");
 }
