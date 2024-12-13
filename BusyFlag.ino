@@ -1,3 +1,7 @@
+// dado un binario de 8 bit por consola, muestra el caracter por el display, mandar comando READ para leer el chip del LCD
+
+
+
 // Pines para backlight y control
 const int backlightPin = A3; // Backlight
 const int rs = 9;           // RS
