@@ -16,4 +16,4 @@ display   --- arduino nano
        D6 --- D8   
        D7 --- D12   
 
-//he intentado conectar el D7 en el D9 del nano para respetar cierto orden pero no se pudo , por algun motivo el RS no quiere //conectar en el D12 asi que por ahora quedo asi
+//he intentado conectar el D7 en el D9 del nano para respetar cierto orden pero no se pudo , por algun motivo el RS no quiere conectar en el D12 asi que por ahora quedo asi
